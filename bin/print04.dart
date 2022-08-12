@@ -1,7 +1,7 @@
 void main() {
-    print("(\\___/)");
-    print("(=' .')");
-    print('(_(")(")');
+    int x;
+   x=10;
+   print (x);
 
 
 
