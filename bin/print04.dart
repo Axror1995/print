@@ -1,6 +1,6 @@
 void main() {
-int x;
-x=13;
+String x;
+x='5';
 print (x);
 
 
