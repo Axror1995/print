@@ -1,9 +1,7 @@
 void main() {
-    int y=7;
-   y=10;
-   print (y);
-   print (y);
-
+int x;
+x=13;
+print (x);
 
 
 }
